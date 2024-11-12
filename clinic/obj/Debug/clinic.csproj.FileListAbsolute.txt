@@ -1,0 +1,30 @@
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.csproj.AssemblyReference.cache
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.cache
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.csproj.CoreCompileInputs.cache
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\bin\Debug\clinic.exe.config
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\bin\Debug\clinic.exe
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\bin\Debug\clinic.pdb
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.exe
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.pdb
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.add_doctorcs.resources
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.userlogin.resources
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.AddPatient.resources
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.admin.resources
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.doctor.resources
+C:\Users\rita rawhy\OneDrive\Desktop\clinic\clinic\obj\Debug\clinic.receptionist.resources
+D:\AcademicMaterial\clinic\clinic\bin\Debug\clinic.exe.config
+D:\AcademicMaterial\clinic\clinic\bin\Debug\clinic.exe
+D:\AcademicMaterial\clinic\clinic\bin\Debug\clinic.pdb
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.csproj.AssemblyReference.cache
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.add_doctorcs.resources
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.admin.resources
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.doctor.resources
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.receptionist.resources
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.userlogin.resources
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.AddPatient.resources
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.cache
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.csproj.CoreCompileInputs.cache
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.exe
+D:\AcademicMaterial\clinic\clinic\obj\Debug\clinic.pdb
